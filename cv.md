@@ -13,14 +13,11 @@ As a professional in the field of English education, I have dedicated my career 
 My background in education has equipped me with advanced studying skills, enabling me to quickly grasp and adapt to new concepts and technologies. This foundation, coupled with my innate interest in Frontend Development, positions me as a dedicated and capable person eager to contribute to the ever-evolving world of web design and user experience.
 
 ---
-
 ### Skills
 * HTML5, CSS3
 * JavaScript Basics
 * Git, GitHub
 * VS Code
-
----
 
 ---
 ### Code example
@@ -75,11 +72,10 @@ getWeather();
 document.querySelector('#city').onchange = getWeather;
 
 ```
-
 ---
 ### Courses:
 * Responsive Web Design on [freeCodeCamp](https://www.freecodecamp.org/)
-![certificate](/images/ffc.jpg)
+![certificate](/img/ffc.jpg) 
 * Java Script course on [ITGid](https://itgid.info/)
 * RS School "JavaScript/Front-end" (in progress)
 ---

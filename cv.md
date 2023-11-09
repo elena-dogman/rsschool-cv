@@ -3,6 +3,7 @@
 ---
 ### Contact information:
 **E-mail:** elenadogman.gmail.com 
+
 **Telegram:** @elenadogman
 
 ---
@@ -79,11 +80,11 @@ document.querySelector('#city').onchange = getWeather;
 ### Courses:
 * Responsive Web Design on [freeCodeCamp](https://www.freecodecamp.org/)
 ![certificate](/images/ffc.jpg)
-* Java Script course on [ITGid] (https://itgid.info/)
+* Java Script course on [ITGid](https://itgid.info/)
 * RS School "JavaScript/Front-end" (in progress)
 ---
 ### Languages:
-* English 
+* English - Advanced
 * Russian - Native 
 * German - Intermediate 
 * Korean - Basic 

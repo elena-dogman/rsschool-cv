@@ -75,7 +75,7 @@ document.querySelector('#city').onchange = getWeather;
 ---
 ### Courses:
 * Responsive Web Design on [freeCodeCamp](https://www.freecodecamp.org/)
-![certificate](/img/ffc.jpg) 
+![certificate](/img/ffc.png) 
 * Java Script course on [ITGid](https://itgid.info/)
 * RS School "JavaScript/Front-end" (in progress)
 ---

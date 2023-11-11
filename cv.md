@@ -78,11 +78,14 @@ document.querySelector('#city').onchange = getWeather;
 
 ![certificate](/img/ffc.png) 
 
-* Java Script course on [ITGid](https://itgid.info/)
+* JavaScript course on [ITGid](https://itgid.info/)
 * RS School "JavaScript/Front-end" (in progress)
 ---
 ### Languages:
-* English - Advanced
+* English - Advanced (C1)
+
+![certificate](/img/det.png)
+
 * Russian - Native 
 * German - Intermediate 
 * Korean - Basic 
